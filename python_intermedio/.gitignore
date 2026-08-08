@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+.Python
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+.pytest_cache
+pip-wheel-metadata/
+__pypackages__/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
